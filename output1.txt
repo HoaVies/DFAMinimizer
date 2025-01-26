@@ -1,0 +1,9 @@
+States: S0,S1
+Alphabet: a,b
+StartState: S0
+FinalStates: S1
+Transitions:
+S0 a S1
+S0 b S0
+S1 a S1
+S1 b S1
